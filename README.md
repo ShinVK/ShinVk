@@ -1,3 +1,5 @@
+
+<a href="https://www.linkedin.com/in/victorkamiguchi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ### Saudações 👋
 
 Olá, meu nome é Victor Shin Kamiguchi, sou formado em eng. Agronômica, mas meu coração pertence a programação.
@@ -8,7 +10,7 @@ Essa pequena caixa não é o computador ou notebook, mas sim, sua própria mente
 Programar é transformar suas ideias e imaginação em algo funcional e visível. É como um artista que coloca suas ideias em uma tela. 
 
 -------------------
-<img alt="codewars" src="https://www.codewars.com/users/ShinVK/badges/micro" />
+
 
 
 
@@ -18,6 +20,8 @@ Programar é transformar suas ideias e imaginação em algo funcional e visível
 - Odeio conversar com pessoas por mensagens :expressionless:
 - Gosto da solitude
 
+### Conhecimentos
+<img alt="codewars" src="https://www.codewars.com/users/ShinVK/badges/micro" />
 
 <!--
 **ShinVK/ShinVk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
