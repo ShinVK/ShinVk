@@ -1,5 +1,7 @@
 
 <a href="https://www.linkedin.com/in/victorkamiguchi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.shinvk.github.io/"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 ### Saudações 👋
 
 Olá, meu nome é Victor Shin Kamiguchi, sou formado em eng. Agronômica, mas meu coração pertence a programação.
@@ -10,18 +12,28 @@ Essa pequena caixa não é o computador ou notebook, mas sim, sua própria mente
 Programar é transformar suas ideias e imaginação em algo funcional e visível. É como um artista que coloca suas ideias em uma tela. 
 
 -------------------
+### Conhecimentos
+<img alt="codewars" src="https://www.codewars.com/users/ShinVK/badges/micro" />
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-
-
+#### Frameworks
+<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="EXPRESSjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img alt="jEST" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Redux" src="	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+-------------------
 
 ### Curiosidades :milky_way:
 
 - Adoro conversar com pessoas pessoalmente 😄
 - Odeio conversar com pessoas por mensagens :expressionless:
 - Gosto da solitude
+- Gosto de história, filosofia e nba
 
-### Conhecimentos
-<img alt="codewars" src="https://www.codewars.com/users/ShinVK/badges/micro" />
+
 
 <!--
 **ShinVK/ShinVk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
