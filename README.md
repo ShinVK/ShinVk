@@ -1,4 +1,11 @@
-### Hi there 👋
+### Saudações 👋
+
+Olá, meu nome é Victor Shin Kamiguchi, sou formado em eng. Agronômica, mas meu coração pertence a programação. Entrei neste mundo em 2021 e desde então descobri meu amor por códigos e lógica.
+
+-------------------
+
+### Hobbies :milky_way:
+
 
 <!--
 **ShinVK/ShinVk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
