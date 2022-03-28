@@ -8,8 +8,9 @@ Essa pequena caixa não é o computador ou notebook, mas sim, sua própria mente
 Programar é transformar suas ideias e imaginação em algo funcional e visível. É como um artista que coloca suas ideias em uma tela. 
 
 -------------------
+<img alt="codewars" src="https://www.codewars.com/users/ShinVK/badges/micro" />
 
-https://www.codewars.com/users/ShinVK/badges/micro
+
 
 ### Curiosidades :milky_way:
 
