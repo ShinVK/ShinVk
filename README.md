@@ -21,7 +21,7 @@ Programar é transformar suas ideias e imaginação em algo funcional e visível
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img alt="EXPRESSjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img alt="jEST" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /><img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /><img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 -------------------
 ### Estatísticas
-<img alt="stat1" src="https://github-readme-stats.vercel.app/api?username={ShinVK}" /> <img alt="stat1" src="https://github-readme-stats.vercel.app/api/top-langs/?username={ShinVK}" />
+<img alt="stat1" src="https://github-readme-stats.vercel.app/api?username={username}" /> <img alt="stat1" src="https://github-readme-stats.vercel.app/api/top-langs/?username={ShinVK}" />
 
 
 
