@@ -25,9 +25,11 @@ Programar é transformar suas ideias e imaginação em algo funcional e visível
 
 -------------------
 
-### Contatos
+### Idiomas
 
-Se deseja entrar em contato comigo, me mande um email para: victor.kamiguchi@gmail.com
+- Português
+- Inglês - Consigo entender e me comunicar em inglês.
+- Japonês - Voltando a estudar
 
 -------------------  
 ### Curiosidades :milky_way:
