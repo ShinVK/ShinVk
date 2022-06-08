@@ -29,15 +29,6 @@ Programar é transformar suas ideias e imaginação em algo funcional e visível
 
 - Português
 - Inglês - Consigo entender e me comunicar em inglês.
-- Japonês - Voltando a estudar
 
--------------------  
-### Curiosidades :milky_way:
-
-- Adoro conversar com pessoas pessoalmente 😄
-- Odeio conversar com pessoas por mensagens :expressionless:
-- Materias preferidas: História e matemática :books:
-- Times: SPFC, Dallas Mavericks(NBA) :soccer:
-- De vez em quando, faço uns esboços de desenho 
 
 
